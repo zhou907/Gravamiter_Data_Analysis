@@ -3,14 +3,11 @@ The goal of this research is to analyze the data output of existing mechanical g
 
 What does each file do?
 
-level3_data_analysis_psd_making.ipynb
-This is the file we made the PSD for apachi point in the year 2015. instruction included within. will update to a more viewable format.
+level3dataanalysis_full.ipynb
+This is the file we made the PSD for gb-l analysis written by Larry Guo. 
 
-2015_lev3_full_year_ggp.zip/ 2015_lev3_full_year_txt.zip
-These are the apachipoint 2015 level 3 data in min. The codes runs using TXT data files. You can save GGP as TXT to keep the TXT files.
+IGETS-SG-RESMIN-bf056-1-201511r2.ggp
+This is the datafile required for the analysis file above. When it say load from the 2015 folder, just link and load where you have put this ggp
 
-FAS_codes.ipynb
-This is the file to make the FAS codes for both BFO and Apahipoint data. The FAS codes are at the end of this file.
-
-BFO data?
-Too big. contact us to obtain said data, or go through the IGETS database.
+if you want more month's data, just let us know.
+Contact: Larry Guo: guo637@purdue.edu
