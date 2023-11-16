@@ -18,5 +18,5 @@ if you want more month's data, just let us know.
 
 ## Contact
 Larry Guo: guo637@purdue.edu
-$
+
 Steve Zhou: zhou907@purdue.edu
