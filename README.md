@@ -3,6 +3,11 @@ The goal of this research is to analyze the data output of existing mechanical g
 
 What does each file do?
 
+PSD_percent_contribution.ipbny
+
+
+
+gb-L analysis
 level3dataanalysis_full.ipynb
 This is the file we made the PSD for gb-l analysis written by Larry Guo. 
 
