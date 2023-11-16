@@ -4,7 +4,10 @@ The goal of this research is to analyze the data output of existing mechanical g
 ## What does each file do?
 ### IGETS signal analysis and PSD percent contribution
 PSD_percent_contribution.ipbny
+This is the file that make the percent contribution graph for the IGETS data. You can download it and run it to check for accuracy.
 
+Level3.zip
+This zip has two folders that is required to run the "folder1_pattern" section of PSD_percent_contribution.ipbny. It is in reference to "C:...\Level3\2020\IGETS-SG-RESMIN-bf056-2-2020*.txt" and "C:...\Level3\2020\IGETS-SG-RESMIN-bf056-2-2021*.txt"
 
 
 ### gb-L analysis
