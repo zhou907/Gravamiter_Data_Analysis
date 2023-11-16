@@ -12,7 +12,7 @@ This zip has two folders that is required to run the "folder1_pattern" section o
 
 ### gb-L analysis
 level3dataanalysis_full.ipynb
-This is the file we made the PSD for gb-l analysis written by Larry Guo. 
+This is the file we made the PSD for gb-l analysis written by Larry Guo. Larry was using python version 3.10.6.
 
 IGETS-SG-RESMIN-bf056-1-201511r2.ggp
 This is the datafile required for the analysis file above. When it say load from the 2015 folder, just link and load where you have put this ggp.
