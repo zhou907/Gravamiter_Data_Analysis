@@ -12,7 +12,7 @@ level3dataanalysis_full.ipynb
 This is the file we made the PSD for gb-l analysis written by Larry Guo. 
 
 IGETS-SG-RESMIN-bf056-1-201511r2.ggp
-This is the datafile required for the analysis file above. When it say load from the 2015 folder, just link and load where you have pu\t this ggp
+This is the datafile required for the analysis file above. When it say load from the 2015 folder, just link and load where you have put this ggp.
 
 if you want more month's data, just let us know.
 
